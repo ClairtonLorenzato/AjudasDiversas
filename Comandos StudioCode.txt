@@ -1,0 +1,31 @@
+
+Ctrl + ; comenta as linhas
+Identar: selecionar + Botao direito do Mause + formatar documento
+Alt + setas move a minha para cima ou para baixo
+
+ COMADOS DO TERMINAL MAIS USADOS:
+ cd nome da pasta  = entra nela
+ cd .. = volta a pasta
+ cd /.. = vai para a raiz
+
+ node -v   ou --version (mostra a versao do node)
+ npm -v mostra a versao do gerenciador de pacotes que vem junto ao node por padrao
+ npm i lodash (instala o pacote lodash) i de instalação e o nome do pacote
+ npm i --save express (Instala o express)
+ npm i --save body-parser  (Instala o Body Parser)
+ npm i --save-dev nodemon (Instala o nodeMon como dependencia especifica)
+ npm i node- schedule (I)
+ npm init -y  (cria o script de configuracao) package.json
+ npm start  (starta o prjeto e fica executando)
+ pwd    (Para o Servidor)
+ rs     (Renicia o servidor)
+ npm i -g http-server (Instala de forma global um servidor no Node)
+ http-server (Starta o servidor - começa ele na porta 8080)
+ http-server -p 9090 (starta na porta desejada, caso aqui a 9090)
+ No Navegar digitar Http://localhost:8080 para navegar
+ http-server -c-1 . (Desabilita o Cache e parte da pasta atual)
+ npm i -g gulp -cli (npm=comando, i=install, -g=global, gulp e o programa, -cli(comand basic interface) site:https://gulpjs.com/
+
+
+CONTROLE DE VERSAO
+ EX:"body-parser": "1.20.1",// com ^Antes(sobe da segunda casa para frente) ~sobe somente a ultima casa
