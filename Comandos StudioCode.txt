@@ -29,3 +29,5 @@ Alt + setas move a minha para cima ou para baixo
 
 CONTROLE DE VERSAO
  EX:"body-parser": "1.20.1",// com ^Antes(sobe da segunda casa para frente) ~sobe somente a ultima casa
+
+teste do gitHub 24/02/2023
