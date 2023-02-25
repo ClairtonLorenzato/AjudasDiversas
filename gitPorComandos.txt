@@ -1,0 +1,40 @@
+Depois do git instalado sobre a pasta com o botão direito do mause clicar em git Bash Here Abre o terminal já na pasta
+ primeiro comando:
+git init  (inicia um repositorio vazio com a branch Main)
+
+git branch -M "nomeda nova branch"  (Renomeia a branch)
+
+git checkout -b "nome da branch" cria uma nova branch
+
+git add . (manda todos os arquivos) ou [nome do arquivo] (poe os arquivos na fila)
+
+git commit -m "mensagem do commit" (faz o commit, Versionamento) Faz em Repositorio local
+
+git status (mostra se tem alguma coisa pendente)
+
+Mandar para o gitHub
+git remote add origin https://github.com/ClairtonLorenzato/NomedoRepositorio (Faz a conexao dita com github)
+
+git push -u origin main   (pede a autenticacao e manda os arquivos)
+
+ATUALIZACOES
+git add .
+git commit -m "nome da branch"
+git push origin nome da branch
+
+git checkout main (volta para a main principal)
+
+git merge nome da branch (faz a junção dos dois projetos atualizados em repositorio local)
+
+git push origin main (Manda a atualização para o gitHub)
+
+FAZER O CLONE DE UM REPOSITORIO DO GITHUB PARA O PC
+
+com a pasta no terminal digitar:
+git clone + link do repositorio
+
+git pull (puxa somente as alterações do repositorio do github para o PC)
+
+fork (copiar repositorio de outro perfil(outra pessoa) do github para o git hub direto) direto no navegar
+pull request (pedido de alteracao de outro projeto, para outra pessoa)
+
