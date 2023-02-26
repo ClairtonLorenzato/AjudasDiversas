@@ -1,0 +1,4 @@
+Baixar o XAMPP pacote de servicos para o servidor funcionar
+Pasta do curso setada como servidor Apache C:\xampp\htdocs
+
+comando phpinfo(); (criar um arquivo php e colacar esta funcao dentro) depois chama o arquivo no servidor
