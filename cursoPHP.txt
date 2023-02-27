@@ -1,4 +1,6 @@
 Baixar o XAMPP pacote de servicos para o servidor funcionar
 Pasta do curso setada como servidor Apache C:\xampp\htdocs
 
+No visual studio code instalar o componente PHP Intelephense (Tem varias funcoes nele)
+
 comando phpinfo(); (criar um arquivo php e colacar esta funcao dentro) depois chama o arquivo no servidor
