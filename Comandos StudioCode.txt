@@ -1,9 +1,9 @@
-
+ctrl + S salva o arquivo
 Ctrl + ; comenta as linhas
-Identar: selecionar + Botao direito do Mause + formatar documento
-Alt + setas move a minha para cima ou para baixo
+Identar = selecionar + Botao direito do Mause + formatar documento
+Alt + Setas move a minha para cima ou para baixo
 
- COMADOS DO TERMINAL MAIS USADOS:
+ COMADOS DO TERMINAL MAIS USADOS NO TERMINAL:
  cd nome da pasta  = entra nela
  cd .. = volta a pasta
  cd /.. = vai para a raiz
